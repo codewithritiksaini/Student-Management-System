@@ -1,6 +1,6 @@
 # 🎓 Student Management System
 
-![Student Management System Screenshot](https://project.ritiksaini.in/assets/images/screencapture.png)
+![Student Management System Screenshot](https://project.ritiksaini.in/images/screencapture.png)
 
 A web-based solution for educational institutions to manage students, classes, notices, and homework submissions with dual portals for administrators and students.
 
