@@ -1,8 +1,8 @@
 # 🎓 Student Management System
 
-![Student Management System Screenshot](https://project.ritiksaini.in/assets/images/screenshot.png)
+![Student Management System Screenshot](https://project.ritiksaini.in/assets/images/screencapture.png)
 
-A complete web-based solution for educational institutions to manage students, classes, notices, and homework submissions with dual portals for administrators and students.
+A web-based solution for educational institutions to manage students, classes, notices, and homework submissions with dual portals for administrators and students.
 
 ---
 
@@ -146,7 +146,7 @@ student-management-system/
 
 ## 📞 Support
 
-- 📧 **Email:** [support@ritiksaini.in](mailto:info@ritiksaini.in)
+- 📧 **Email:** [info@ritiksaini.in](mailto:info@ritiksaini.in)
 
 ---
 
@@ -164,9 +164,3 @@ student-management-system/
 For **demo, testing, or educational purposes only.**
 
 ---
-
-> 📝 **Tips:**
-> - Save this as `README.md` in your project root.
-> - GitHub will automatically render it beautifully.
-> - Want badges (e.g., license, PHP version)? Let me know, and I can add those too.
-
