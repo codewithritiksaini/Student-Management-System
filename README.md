@@ -127,7 +127,6 @@ student-management-system/
 ├── save_message.php          # Contact form data handler
 ├── view-public-notice.php    # Public notice viewer
 ├── u796468439_student_db.sql # SQL dump file (for database import)
-├── sms.zip                   # (Optional) Backup or zipped project files
 ├── new/                      # (Unclear purpose – add comment if needed)
 └── README.md                 # Project documentation
 ```
