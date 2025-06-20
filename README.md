@@ -109,29 +109,28 @@ A complete web-based solution for educational institutions to manage students, c
 
 Feel free to customize roles and credentials as needed.
 
-**Project Structure**
+## 📁 Project Structure
 
-\`\`\`bash  
-student-management/  
-├── admin/               # Admin backend  
-│   ├── classes/         # Class management  
-│   ├── students/        # Student operations  
-│   ├── homework/        # Assignment system  
-│   └── reports/         # Reporting modules  
-├── student/             # Student portal  
-│   ├── homework/        # Submission interface  
-│   └── notices/         # Notice viewing  
-├── includes/            # Core components  
-│   ├── auth.php         # Authentication  
-│   └── dbconnection.php # Database config  
-├── assets/              # Static files  
-│   ├── css/             # Stylesheets  
-│   ├── js/              # JavaScript  
-│   └── images/          # System images  
-├── index.php            # Landing page  
-├── contact.php          # Contact form  
-└── about.php            # About page  
-\`\`\`
+```bash
+student-management-system/
+├── admin/                    # Admin panel (class, student, reports, etc.)
+├── css/                      # Stylesheets
+├── fonts/                    # Custom fonts
+├── images/                   # System and UI images
+├── includes/                 # Core backend files (DB connection, auth)
+├── js/                       # JavaScript files
+├── PHPMailer/                # Email handling library
+├── user/                     # Student portal (homework, notice view, etc.)
+├── about.php                 # About Us page
+├── contact.php               # Contact form page
+├── index.php                 # Landing page
+├── save_message.php          # Contact form data handler
+├── view-public-notice.php    # Public notice viewer
+├── u796468439_student_db.sql # SQL dump file (for database import)
+├── sms.zip                   # (Optional) Backup or zipped project files
+├── new/                      # (Unclear purpose – add comment if needed)
+└── README.md                 # Project documentation
+```
 
 # 🌐 Live Demo
 
